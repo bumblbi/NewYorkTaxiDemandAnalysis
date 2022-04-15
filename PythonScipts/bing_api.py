@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from time import sleep
 # Your Bing Maps Key 
-bingMapsKey = "AmoNBcIYDcFMMMpME2kddQFUd3v2WWuas2C-zQPBKBDhXnUwYeUEksR1DEJhLKEY"
+bingMapsKey = "AmoNBcIYDcFMMMpME2kddQFUd3v2WWuas2C-zQPBKBDhXUEksR1DEJhLKEY"
 
 #routeUrl = "http://dev.virtualearth.net/REST/V1/Routes/Driving?wp.0=" + str(-73.97306061) + "," + str(40.74992371) + "&wp.1=" + str(-73.98472595) + "," + str(40.74789047) + "&key=" + bingMapsKey
 #routeUrl = "http://dev.virtualearth.net/REST/V1/Routes/Driving?wp.0=" + str(40.74992371) + "," + str(-73.97306061) + "&wp.1=" + str(40.74789047) + "," + str(-73.98472595) + "&key=" + bingMapsKey
